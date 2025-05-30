@@ -7,19 +7,10 @@ hero:
   text: "Personal Website"
   tagline: My great project tagline
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Roam Wiki
+      link: "https://illustratedman-code.github.io/roam-wiki/"
+    - theme: alt
+      text: Planner Wiki
+      link: "https://illustratedman-code.github.io/planner/"
 ---
-

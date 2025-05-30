@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Roam', link: 'https://illustratedman-code.github.io/roam-wiki/' },
+      { text: 'Planner', link: 'https://illustratedman-code.github.io/planner/' }
     ],
 
     sidebar: [
