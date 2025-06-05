@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Roam', link: 'https://illustratedman-code.github.io/roam-wiki/' },
-      { text: 'Planner', link: 'https://illustratedman-code.github.io/planner/' }
+      { text: 'Planner', link: 'https://illustratedman-code.github.io/Planner/' }
     ],
 
     sidebar: [

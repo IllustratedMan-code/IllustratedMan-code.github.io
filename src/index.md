@@ -12,5 +12,5 @@ hero:
       link: "https://illustratedman-code.github.io/roam-wiki/"
     - theme: alt
       text: Planner Wiki
-      link: "https://illustratedman-code.github.io/planner/"
+      link: "https://illustratedman-code.github.io/Planner/"
 ---
